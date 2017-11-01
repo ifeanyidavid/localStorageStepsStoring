@@ -1,4 +1,3 @@
-```javascript
 setTransaction(formData: any){
 
     console.log(formData);
@@ -24,4 +23,3 @@ setTransaction(formData: any){
         }
         
     }
-    ```
